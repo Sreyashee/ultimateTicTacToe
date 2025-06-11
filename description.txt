@@ -1,0 +1,24 @@
+HOMEPAGE:
+    block 1:
+        1. basic tictactoe
+            -> single player button
+            -> multi-player button
+        
+        2. single player:
+            -> enter name popup
+            -> enter easy, medium, hard
+
+        3. multi player:
+            -> enter name
+            -> code displayed
+            -> option to share code via whatsapp
+            -> via copy
+
+            4. opens a new page according to the choice entered
+        
+        
+    block 2:    
+        1. ultimate tictactoe
+            -> single player button
+            -> multi player button
+
